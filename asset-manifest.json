@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.046c45b2.css",
-    "main.js": "/static/js/main.bd497033.js",
+    "main.js": "/static/js/main.b3448eef.js",
     "static/media/profile.jpg": "/static/media/profile.6c3bd7ec899bd79e1c72.jpg",
     "static/media/Resume.pdf": "/static/media/Resume.142b7f015c4955f5065e.pdf",
     "static/media/me.jpg": "/static/media/me.30d47fe86fb5e84c37bf.jpg",
@@ -9,10 +9,10 @@
     "static/media/coaching_app.jpg": "/static/media/coaching_app.8c1419fcb0516efc9b22.jpg",
     "index.html": "/index.html",
     "main.046c45b2.css.map": "/static/css/main.046c45b2.css.map",
-    "main.bd497033.js.map": "/static/js/main.bd497033.js.map"
+    "main.b3448eef.js.map": "/static/js/main.b3448eef.js.map"
   },
   "entrypoints": [
     "static/css/main.046c45b2.css",
-    "static/js/main.bd497033.js"
+    "static/js/main.b3448eef.js"
   ]
 }
